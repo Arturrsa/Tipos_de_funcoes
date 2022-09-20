@@ -47,5 +47,5 @@ function calculator(valueA, valueB, operation) {
         return +valueA / +valueB 
     }
 }
-const resultado = calculator(5,2, '*')
+const resultado = calculator(15,2, '*')
 console.log("A soma da operação calculadora é ", resultado)
